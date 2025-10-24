@@ -2,7 +2,7 @@
   <v-main>
     <v-container class="py-10">
       <h1 class="text-h4 font-weight-bold mb-2">Calendario de Eventos</h1>
-      <p class="text-medium-emphasis mb-6">Explora talleres, ferias, admisiones y más.</p>
+      <p class="text-medium-emphasis mb-6">Explora talleres, ferias, Open house, admisiones y más.</p>
 
       <EventCalendar />
 

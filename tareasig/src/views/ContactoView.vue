@@ -69,7 +69,7 @@
           </v-card>
 
           <v-card elevation="4">
-            <v-card-title>Redes sociales</v-card-title>
+            <v-card-title>Redes sociales oficiales</v-card-title>
             <v-card-actions>
               <v-btn icon="mdi-facebook" variant="text" />
               <v-btn icon="mdi-instagram" variant="text" />
