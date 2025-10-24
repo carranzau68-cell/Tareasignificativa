@@ -33,7 +33,7 @@ export default {
   },
   methods: {
     enviar() {
-      if (this.$refs.form.validate()) alert('¡Mensaje enviado con éxito!')
+      if (this.$refs.form.validate()) alert('¡Mensaje enviado exitosamente!')
     },
   },
 }
